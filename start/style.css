@@ -283,8 +283,8 @@ a:hover {
     padding-left: 0;
 }
 
-#bloc-2-services p {
-    font-size: 11px;
+#bloc-1-hero h1 {
+    font-size: 32px;
 }
 
 .navbar {
@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 11px;
 }
 
 .tight-width-whitespace {
@@ -695,7 +695,7 @@ p {
     color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
-    font-size: 1.0em;
+    font-size: 16px;
     font-weight: 700;
 }
 
@@ -753,19 +753,13 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(35, 31, 32, 0.7);
+    background-color: rgba(165, 147, 99, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
 .bold-link {
     font-weight: 900;
     text-decoration: underline!important;
-}
-
-.service-header {
-    font-size: 15px;
-    font-weight: 700;
-    text-transform: uppercase;
 }
 
 .bgc-white {
@@ -781,7 +775,7 @@ h4 {
 }
 
 .tc-white {
-    color: #364577!important;
+    color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
@@ -823,12 +817,12 @@ h4 {
     background-image: url("img/lines-h2-bg.png");
 }
 
-.bg-atlanta-20made-20sign {
-    background-image: url("img/atlanta%20made%20sign.jpg");
+.bg-banniere {
+    background-image: url("img/la-chouette-agence-banniere.jpg");
 }
 
-.bg-atlanta-20made-20sign-20orange {
-    background-image: url("img/atlanta%20made%20sign%20orange.jpg");
+.bg-presentation {
+    background-image: url("img/image-de-presentation.bmp");
 }
 
 @media (max-width: 1024px) {
