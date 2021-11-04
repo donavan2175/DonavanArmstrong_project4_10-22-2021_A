@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    background: url("/Users/Donavan/Desktop/DonavanArmstrong_project4_10:22:2021_A/img/texture-paper-min.webp");
     background-size: 280px 280px;
 }
 
@@ -810,11 +810,11 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("img/dots-bg.png");
+    background-image: url("/Users/Donavan/Desktop/DonavanArmstrong_project4_10:22:2021_A/img/dots-bg-min.webp");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("img/lines-h2-bg.png");
+    background-image: url("/Users/Donavan/Desktop/DonavanArmstrong_project4_10:22:2021_A/img/lines-h2-bg-min.webp");
 }
 
 .bg-banniere {
