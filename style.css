@@ -816,19 +816,19 @@ h4 {
 }
 
 .bg-dots-bg {
-    background-image: url("/Users/Donavan/Desktop/DonavanArmstrong_project4_10:22:2021_A/img/dots-bg-min.webp");
+    background-image: url("img/dots-bg-min.webp");
 }
 
 .bg-lines-h2-bg {
-    background-image: url("/Users/Donavan/Desktop/DonavanArmstrong_project4_10:22:2021_A/img/lines-h2-bg-min.webp");
+    background-image: url("img/lines-h2-bg-min.webp");
 }
 
 .bg-atlanta-20made-20sign {
-    background-image: url("/Users/Donavan/Desktop/DonavanArmstrong_project4_10:22:2021_A/img/atlanta made sign.webp");
+    background-image: url("img/made-sign.webp");
 }
 
 .bg-atlanta-20made-20sign-20orange {
-    background-image: url("/Users/Donavan/Desktop/DonavanArmstrong_project4_10:22:2021_A/img/atlanta made sign orange.webp");
+    background-image: url("orange-sign.webp");
 }
 
 @media (max-width: 1024px) {
