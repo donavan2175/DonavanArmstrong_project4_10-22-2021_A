@@ -76,7 +76,7 @@ a, button {
 }
 
 .d-bloc {
-    color: rgba(255, 255, 255, .7);
+    color: #141414;
 }
 
 .d-bloc .a-btn, .d-bloc .navbar a, .d-bloc .navbar-brand, .d-bloc a .icon-sm, .d-bloc a .icon-md, .d-bloc a .icon-lg, .d-bloc a .icon-xl, .d-bloc h1 a, .d-bloc h2 a, .d-bloc h3 a, .d-bloc h4 a, .d-bloc h5 a, .d-bloc h6 a, .d-bloc p a {
@@ -196,7 +196,7 @@ a[data-lightbox] {
 h1, h2, h3, h4, h5, h6, p, label, .btn, a {
     font-family: "helvetica";
     font-weight: 400;
-    color: grey!important;
+    color: white;
 }
 
 .container {
