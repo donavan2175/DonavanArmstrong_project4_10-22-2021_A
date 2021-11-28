@@ -135,6 +135,8 @@ a:hover {
         -webkit-transform: translateY(-50%);
     }
 
+
+
     .nav > li .dropdown-menu a, .nav > li .dropdown-menu a:hover {
         color: #484848;
     }
