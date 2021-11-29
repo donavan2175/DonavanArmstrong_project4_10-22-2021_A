@@ -167,6 +167,10 @@ a:hover {
         margin-top: 20px;
     }
 
+    .mg-md {
+        margin-right: 10%;
+    }
+
     .nav-center.mini-nav .navbar-toggle {
         float: none;
         margin: 10px auto 0;
