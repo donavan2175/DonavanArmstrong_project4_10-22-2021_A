@@ -498,7 +498,7 @@ h4 {
         float: none!important;
     }
 
-    .navbar.row {
+    .navbar .row {
         margin-left: 0;
         margin-right: 0;
     }
